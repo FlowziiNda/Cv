@@ -31,7 +31,7 @@ const Contact = () => {
                 </div>
                 <div className="socialNetwork">
                  <ul>
-                 <a href="http://www.google.com" target="_blank" rel="noopener noreferrer">
+                 <a href="https://github.com/FlowziiNda" target="_blank" rel="noopener noreferrer">
                  <h4>Github</h4>
                  <i className="fab fa-github"></i>
                  </a>

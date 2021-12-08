@@ -19,7 +19,7 @@ const Experience = () => {
                 <p>Formation à L'AFPA de Roubaix pour enrichir mes connaissances,
                     en Java Jee (1 mois de cours)
                     et de la partie front le React (1 mois en entreprise),
-                    ainsi grace à cette formation j'ai pu acquérir de nouvelles cordes à mon arc  </p>
+                    ainsi grâce à cette formation j'ai pu acquérir de nouvelles compétences  </p>
             </div>
         </div>
     );

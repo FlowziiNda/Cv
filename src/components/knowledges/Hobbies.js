@@ -24,7 +24,7 @@ const Hobbies = () => {
                 </li>
                 <li className="hobby">
                     <i className="icon"><MdSmartphone /></i>
-                    <span>La High-tech et les nouvelles technologie</span>
+                    <span>La High-tech et les nouvelles technologies</span>
                 </li>
 
 
